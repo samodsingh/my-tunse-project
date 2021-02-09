@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+}
+
+body{
+    min-width: 350px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100%;
+    
+}
+
+.container-fluid{
+    color: white;
+    width: 100%;
+    height: 100vh;
+    background-image: url(./image/pexels-photo-1480689.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+
+    
+
+    
+
+}
+.main-page{
+    width: 100%;
+    height: 400px;
+}
+/* 
+ .navbar{
+    background-color: rgb(102, 98, 98);
+    
+}
+.navbar-nav .nav-link{
+    color: whitesmoke;
+    font-size: 20px;
+} */
+
+.btn-dangar{
+    background-color: rgb(241, 57, 57);
+    padding: 20px 20px;
+    border-radius: 0px;
+    
+}
+.btn-dangar a{
+    color: whitesmoke;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.btn-pramary{
+    background-color: rgb(56, 37, 143);
+    padding: 20px 20px;
+    border-radius: 0px;
+    
+    
+}
+
+.btn-pramary a{
+    color: whitesmoke;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: whitesmoke;
+}
+#page-2{
+    color: blanchedalmond;
+    width: 100%;
+    height: auto;
+    padding: auto;
+    background-color: rgb(59, 58, 58);
+}
+
+.bg-image{
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    
+    background-image: url(./image/image-3.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 20px;
+    align-self: center;
+}
+.bg-text h3{
+    margin: auto;
+}
+ img{
+    width: 100%;
+    
+
+
+}
+.footer{ 
+    font-family:   'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+
+}
+h4{
+    
+    color: whitesmoke;
+}
+
+ul li{
+    list-style: none;
+    padding-top: 10px;
+
+    
+}
+ul li a{
+    color: whitesmoke;
+    padding-top: 20px;
+    font-size: 18px;
+    
+}
+.footer-bottom{
+    background-color: rgb(90, 87, 87);
+    padding:    15px 15px;
+    color: whitesmoke;
+}
+
